@@ -1,5 +1,5 @@
 {
-    "name": "swarrot/swarrot-bundle",
+    "name": "u2032/swarrot-bundle",
     "description": "SwarrotBundle",
     "type": "symfony-bundle",
     "keywords": ["swarrot","bundle"],
